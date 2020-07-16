@@ -8,7 +8,7 @@
 - 🔭 I’m currently working for an education based startup, Studentrix.
 - 💬 Ask me about WebDev, AppDev and ML Algos. 
 - 👯 I’m looking to collaborate on FullStack projects.
-- 😄 Pronouns: DB 😅
+- 😄 Pronouns: DB 
 - ⚡ Fun fact: "Dev" in my name and in my veins.😅
 
 <!--
