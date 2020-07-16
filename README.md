@@ -1,6 +1,6 @@
 ### Hello World, Devansh here! 👋
 
-- LinkedIn - <a> https://www.linkedin.com/in/devansh-baldwa-401953178/ </a>
+- <a href="https://www.linkedin.com/in/devansh-baldwa-401953178/">LinkedIn</a>
 - 👯 I’m looking to collaborate on FullStack based projects.
 - ⚡ Fun fact: ...
 
