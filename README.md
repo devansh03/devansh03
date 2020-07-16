@@ -1,5 +1,9 @@
 ### Hello World, Devansh here! 👋
 
+- LinkedIn - <a> https://www.linkedin.com/in/devansh-baldwa-401953178/ </a>
+- 👯 I’m looking to collaborate on FullStack based projects.
+- ⚡ Fun fact: ...
+
 <!--
 **devansh03/devansh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
