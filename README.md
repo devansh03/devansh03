@@ -11,8 +11,6 @@
 - 😄 Pronouns: DB 
 - ⚡ Fun fact: "Dev" in my name and in my veins.😅
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh03)](https://github.com/devansh03)
-
 [![Github Followers](https://img.shields.io/github/followers/devansh03?style=social)](https://github.com/devansh03?tab=followers) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=devanshbaldwa@gmail.com&color=red&logo=gmail&style=social)](mailto:devanshbaldwa@gmail.com?subject=Hello)
 
 **Languages and Tools:**  
