@@ -11,7 +11,7 @@
 - 😄 Pronouns: DB 
 - ⚡ Fun fact: "Dev" in my name and in my veins.😅
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/devansh03)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/devansh03) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh03)](https://github.com/devansh03)
 
 [![Github Followers](https://img.shields.io/github/followers/devansh03?style=social)](https://github.com/devansh03?tab=followers) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=devanshbaldwa@gmail.com&color=red&logo=gmail&style=social)](mailto:devanshbaldwa@gmail.com?subject=Hello)
 
@@ -33,6 +33,7 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh03)](https://github.com/devansh03)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/devansh03)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/devansh03) <br>
 -->
 
 <!--
