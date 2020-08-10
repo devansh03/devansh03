@@ -6,7 +6,7 @@
 - <a href="https://twitter.com/DevanshBaldwa">Twitter</a>
 - <a href="https://www.reddit.com/user/devansh03/">Reddit</a>
 - 💬 Ask me about WebDev, AppDev and ML Algos. 
-- 👯 I’m looking to collaborate on FullStack projects.
+- 👯 I’m looking to collaborate on FullStack WebDev or AppDev projects.
 - 🔭 I’m currently working for an education based startup, Studentrix.
 - 😄 Pronouns: DB 
 - ⚡ Fun fact: "Dev" in my name and in my veins.😅
